@@ -1,6 +1,6 @@
 # Logentries API
 
-![](https://www.codeship.io/projects/e9117250-b06c-0131-9f39-4a2e83961998/status)
+# This is forked from [here](https://bitbucket.org/contentpool/logentries-api)
 
 ## Unofficial HTTP API Wrapper
 
