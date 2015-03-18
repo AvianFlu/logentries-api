@@ -2,6 +2,8 @@
 
 # This is forked from [here](https://bitbucket.org/contentpool/logentries-api)
 
+# Please do not use this library, it is tailored for a specific purpose
+
 ## Unofficial HTTP API Wrapper
 
 Can be used as a Node.js module and as a command line utility to
