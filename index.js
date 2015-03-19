@@ -53,8 +53,6 @@ module.exports = function(options) {
     },
 
     createLog: function(name, type, hostKey, cb) {
-      if (!sources[type]) return cb(new Error('Invalid log type.'));
-
       api({
         request: 'new_log',
         user_key: options.accountKey,
